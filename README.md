@@ -1,5 +1,5 @@
 # iphone-UML
-
+```mermaid
 classDiagram
     class ReprodutorMusical {
         + selecionarMusica()
@@ -26,3 +26,4 @@ classDiagram
     iPhone --> ReprodutorMusical
     iPhone --> AparelhoTelefonico
     iPhone --> NavegadorInternet
+```
